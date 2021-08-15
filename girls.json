@@ -1,0 +1,645 @@
+[
+    {
+        "id": 0,
+        "title": "Amanda",
+        "type": "9-7-5 réps FT :\n",
+        "exercices": [
+            "Muscle Ups",
+            "Squat Snatchs (60 / 45 kg)"
+        ],
+        "desc": "Le but est évidemment de réaliser ces séries le plus rapidement possible, mais histoire de se cadrer et de se donner des objectifs de temps, voici ce qui est attendu en fonction de chaque niveau :",
+        "target": [
+            "Débutant : 13/15 minutes",
+            "Intermédiaire : 10/12 minutes",
+            "Avancé : 8/9 minutes",
+            "Expert : 5/7 minutes"
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Amanda .45",
+        "type": "13-11-9-7-5 réps FT :\n",
+        "exercices": [
+            "Muscle Ups",
+            "Squat Snatchs (60 / 45 kg)"
+        ],
+        "desc": "Une variante du WOD Amanda… en nettement plus dur avec ses deux séries supplémentaires de 13 et 11 réps chacune ! Et en ce qui concerne les objectifs de temps, il faut réussir à atteindre les 13 minutes pour les hommes et les 15 minutes pour les femmes !",
+        "target": ""
+    },
+    {
+        "id": 2,
+        "title": "Angie",
+        "type": "FT :\n",
+        "exercices": [
+            "100 Pull Ups",
+            "100 Push Ups",
+            "100 Sit Ups",
+            "100 Squats"
+        ],
+        "desc": "Un WOD Benchmark à effectuer le plus rapidement possible, idéal pour savoir à quel niveau on se trouve ! D’ailleurs, en parlant de niveau, voici les objectifs de temps à atteindre :",
+        "target": [
+            "Débutant : 24/28 minutes",
+            "Intermédiaire : 19/23 minutes",
+            "Avancé : 18/22 minutes",
+            "Expert : moins de 14 minutes"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Upside Down Angie",
+        "type": "FT :\n",
+        "exercices": [
+            "100 Squats",
+            "100 Sit Ups",
+            "100 Push Ups",
+            "100 Pull Ups"
+        ],
+        "desc": "Comme son nom l’indique, il s’agit juste du WOD Angie dans le sens inverse, en commençant par les squats et en finissant par les tractions ! Les chronos à atteindre restent donc les mêmes !",
+        "target": ""
+    },
+    {
+        "id": 4,
+        "title": "Annie",
+        "type": "50-40-30-20-10 réps FT :\n",
+        "exercices": [
+            "Double Unders",
+            "Sit Ups"
+        ],
+        "desc": "Impossible de réussir ce WOD Annie sans une bonne corde à sauter ! Faisant également partie des WOD Benchmark, le chrono est essentiel et en termes de temps, les objectifs sont :",
+        "target": [
+            "Débutant : 10/12 minutes",
+            "Intermédiaire : 8/10 minutes",
+            "Avancé : 7/8 minutes",
+            "Expert : moins de 6 minutes"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Barbara",
+        "type": "5 rounds FT :",
+        "exercices": [
+            " (3 minutes de repos entre chaque round)",
+            "20 Pull Ups",
+            "30 Push Ups",
+            "40 Sit Ups",
+            "50 Squats"
+        ],
+        "desc": "Une variante encore plus physique de l’Angie avec ses 5 séries ! Mais il est possible de scaler ce WOD en se limitant à 10 Pull Ups et Push Ups et 20 Sit Ups et Squats. Sinon, ce qui est considéré comme un bon chrono, c’est :",
+        "target": [
+            "Débutant : 46 minutes et plus",
+            "Intermédiaire : 34/45 minutes",
+            "Avancé : 24/33 minutes",
+            "Expert : moins de 23 minutes"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Candy",
+        "type": "5 rounds FT :\n",
+        "exercices": [
+            "20 Pull Ups",
+            "40 Push Ups",
+            "60 Squats"
+        ],
+        "desc": "Plus physique qu’il n’y parait, le WOD Candy peut être modifié pour les débutants en optant pour 4 séries de 10 Jumping Pull Ups, 20 Knee Push Ups et 30 Squats. Sinon, l’objectif chrono est :",
+        "target": [
+            "Débutant : 36/41 minutes",
+            "Intermédiaire : 24/32 minutes",
+            "Avancé : 18/21 minutes",
+            "Expert : moins de 16 minutes"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Chelsea",
+        "type": "EMOM pendant 30 minutes :\n",
+        "exercices": [
+            "5 Pull Ups",
+            "10 Push Ups",
+            "15 Squats"
+        ],
+        "desc": "Pas de chrono à battre pour cet autre WOD Benchmark ! Par contre, pour les débutants, réussir à faire entre 10 et 15 séries est plutôt bien ! Pour les grands débutants, il est possible de faire passer ce WOD en AMRAP et de tenter 3 Jumping Pull Up, 6 Knee Push Ups et 9 Squats pendant 20 minutes.",
+        "target": ""
+    },
+    {
+        "id": 8,
+        "title": "Christine",
+        "type": "3 rounds FT :\n",
+        "exercices": [
+            "500 m de rameur",
+            "12 Deadlifts (BW)",
+            "21 Box Jumps (60 / 50 cm)"
+        ],
+        "desc": "Ce WOD Christine a de quoi faire transpirer ! En enchainant 3 fois de suite et le plus rapidement possible le rameur, les deadlifts (BW signifie que la charge est égale à celle du poids du corps) et les sauts, on se dépense, on se muscle et on finit forcément essoufflé !",
+        "target": ""
+    },
+    {
+        "id": 9,
+        "title": "Cindy",
+        "type": "AMRAP pendant 20 min :\n",
+        "exercices": [
+            "5 Pull Ups",
+            "10 Push Ups",
+            "15 Squats"
+        ],
+        "desc": "Comme pour tous les WODs AMRAP, l’objectif à se fixer n’est pas d’avoir le meilleur chrono mais d’enchainer le plus de rounds possible ! Et voici le but à atteindre en nombres de séries :",
+        "target": [
+            "Débutant : 11/12 rounds",
+            "Intermédiaire : 13/17 rounds",
+            "Avancé : 19/22 rounds",
+            "Expert : 24/28 rounds"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Cindy XXX",
+        "type": "AMRAP pendant 20 minutes :\n",
+        "exercices": [
+            "10 Pull Ups",
+            "20 Push Ups",
+            "30 Squats",
+            "15 Pull Ups",
+            "30 Push Ups",
+            "45 Squats",
+            "20 Pull Ups",
+            "40 Push Ups",
+            "60 Squats",
+            "25 Pull Ups",
+            "50 Push Ups",
+            "75 Squats",
+            "30 Pull Ups",
+            "60 Push Ups",
+            "90 Squats"
+        ],
+        "desc": "Le but de ce WOD est d’aller le plus loin possible dans la liste avec un chrono de 20 minutes, et évidemment de se challenger à faire mieux la fois d’après !",
+        "target": ""
+    },
+    {
+        "id": 11,
+        "title": "Hard Cindy",
+        "type": "AMRAP pendant 20 minutes :\n",
+        "exercices": [
+            "5 Weighted Pull Ups (15 / 10 kg)",
+            "10 Incline Push Ups (pieds surélevés de 75 / 60 cm)",
+            "15 Squats (avec disque de 20 / 15 kg)"
+        ],
+        "desc": "Ce WOD Hard Cindy est une autre variante du Cindy, avec cette fois des exercices rendus plus éprouvants avec des charges, notamment ! Comme souvent quand des poids interviennent, il est possible de scaler en optant pour des charges moins lourdes, et on conseille notamment la veste lestée pour réaliser les tractions et les squats !",
+        "target": ""
+    },
+    {
+        "id": 12,
+        "title": "Row Cindy Row",
+        "type": "AMRAP pendant 20 minutes :\n",
+        "exercices": [
+            "5 Pull Ups",
+            "10 Push Ups",
+            "15 Squats",
+            "20 Calories Row"
+        ],
+        "desc": "Une ultime variante du WOD Cindy ! Il s’agit ici de renforcer l’effort déjà assez conséquent en ajoutant un peu de rameur. Durant chaque round, il faut dépenser 20 calories au rameur, ce qui prend plus au moins de temps en fonction de son niveau et de sa forme physique !",
+        "target": ""
+    },
+    {
+        "id": 13,
+        "title": "Diane",
+        "type": "21-15-9 réps FT :\n",
+        "exercices": [
+            "Deadlift (100 / 70 kg)",
+            "Handstand Push Ups"
+        ],
+        "desc": "Ce WOD Benchmark dégressif à 3 séries devrait pouvoir se réaliser en moins de 15 minutes, même pour les débutants ! Ce n’est donc pas le plus éprouvant, mais par contre, les bras vont souffrir !",
+        "target": [
+            "Débutant : 10/14 minutes",
+            "Intermédiaire : 6/9 minutes",
+            "Avancé : 5/6 minutes",
+            "Expert : moins de 5 minutes"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Roaming Diane",
+        "type": "21-15-9 réps FT :\n",
+        "exercices": [
+            "Deadlifts (100 / 70 kg)",
+            "Handstand Walk"
+        ],
+        "desc": "Le Roaming Diane est une variante du WOD Diane dans lequel les Handstand Push Ups sont remplacés par des Handstand Walk. On ne parle alors plus de répétitions mais de distance à parcourir en mètres : il faut faire 21 m lors de la première série, 15 lors de la deuxième et enfin 9 lors de la dernière ! Il n’est évidemment pas obligatoire de les faire d’un seul trait !",
+        "target": ""
+    },
+    {
+        "id": 15,
+        "title": "Time Priority Diane",
+        "type": "Max réps en 4:30 minutes :\n",
+        "exercices": [
+            "60 secondes de Deadlifts (100 / 70 kg)",
+            "60 secondes de Handstand Push Ups",
+            "45 secondes de Deadlifts (100 / 70 kg)",
+            "45 secondes de Handstand Push Ups",
+            "30 secondes de Deadlifts (100 / 70 kg)",
+            "30 secondes de Handstand Push Ups"
+        ],
+        "desc": "Pour cette autre variante du WOD Diane, la priorité est cette fois mise sur le chrono ! C’est un entrainement rapide, qui se fait en 4 minutes ½, dans lequel on doit enchainer les séries sans prendre le temps de se reposer entre deux ! Il est possible de scaler en soulevant moins lourd, mais l’objectif est bien évidemment de réaliser toujours plus de réps !",
+        "target": ""
+    },
+    {
+        "id": 16,
+        "title": "Elizabeth",
+        "type": "21-15-9 réps FT :\n",
+        "exercices": [
+            "Squat Cleans (60 / 45 kg)",
+            "Ring Dips"
+        ],
+        "desc": "Le WOD Elizabeth est le parfait condensé de ce que propose le Crossfit : des mouvements d’haltérophilie et de gymnastique ! S’il est évidemment possible de choisir des charges moins lourdes, on recommande cependant de ne pas y toucher et d’y aller progressivement, en essayant à chaque nouvelle tentative d’améliorer son chrono. Voici d’ailleurs les objectifs qu’il faut se fixer :",
+        "target": [
+            "Débutant : 11/14 minutes",
+            "Intermédiaire : 8/10 minutes",
+            "Avancé : 5/7 minutes",
+            "Expert : moins de 5 minutes"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Eva",
+        "type": "5 rounds FT :\n",
+        "exercices": [
+            "800 m de course",
+            "30 Kettlebell Swings (32 / 24 kg)",
+            "30 Pull Up"
+        ],
+        "desc": "Vous voulez un entrainement intensif ? Le WOD Eva est parfait ! Avec des objectifs chrono entre 30 et 60 minutes en fonction du niveau (comme affiché après), il a de quoi faire bien mal ! Tout vient des 5 rounds à effectuer, et d’ailleurs, pour le scaler, mieux vaut ne pas toucher à ces rounds mais plutôt réduire la distance de course ou le nombre de réps !",
+        "target": [
+            "Débutant : 59/66 minutes",
+            "Intermédiaire : 44/54 minutes",
+            "Avancé : 35/39 minutes",
+            "Expert : 28/32 minutes"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Fran",
+        "type": "21-15-9 réps FT :\n",
+        "exercices": [
+            "Thrusters (45 / 30 kg)",
+            "Pull Ups"
+        ],
+        "desc": "Le Fran est un petit WOD rapide mais bien équilibré qui a de quoi faire travailler les bras mais également tout le reste du corps ! En dégressif, il contient un total de 45 réps de chaque mouvement et les thrusters peuvent évidemment être moins lourd pour les grands débutants !",
+        "target": ""
+    },
+    {
+        "id": 19,
+        "title": "Fractured Fran",
+        "type": "5 rounds FT :\n",
+        "exercices": [
+            "9 Thrusters (45 / 30 kg)",
+            "9 Pull Ups"
+        ],
+        "desc": "Fractured Fran est un WOD qui propose exactement le même entrainement que le Fran (même mouvements, mêmes poids, même nombre total de réps) mais il se distingue en proposant un rythme différent. L’objectif est ici de compléter 5 rounds identiques le plus rapidement possible, ce qui est plus facile au début par rapport au Fran classique, mais nettement plus difficile à la fin !",
+        "target": ""
+    },
+    {
+        "id": 20,
+        "title": "Heavy Fran",
+        "type": "15-12-9 réps FT :\n",
+        "exercices": [
+            "Thrusters (60 / 45 kg)",
+            "Weighted Pull Ups (20 / 15 kg)"
+        ],
+        "desc": "Une autre variante du WOD Fran qui insiste cette fois sur la charge pour être encore plus intense ! Pour les Pull Ups avec du poids, les meilleures solutions sont la ceinture lestée avec un kettlebell, la veste lestée avec la charge appropriée ou encore serrer un kettlebell entre ses jambes pendant les tractions !",
+        "target": [
+            "Débutant : 7/9 minutes",
+            "Intermédiaire : 6/7 minutes",
+            "Avancé : 4/6 minutes",
+            "Expert : moins de 4 minutes"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Frelen",
+        "type": "5 rounds FT :\n",
+        "exercices": [
+            "800 m de course",
+            "15 Dumbell Thrusters (20 / 15 kg)",
+            "15 Pull Ups"
+        ],
+        "desc": "Le WOD Frelen est, comme on pourrait s’en douter, un mix entre le Fran et le Helen ! Le fait de privilégier des haltères à la barre introduit la nécessité d’être encore plus stable, ce qui revient à rendre cet entrainement plus efficace !",
+        "target": ""
+    },
+    {
+        "id": 22,
+        "title": "Grace",
+        "type": "FT :\n",
+        "exercices": [
+            "30 Clean & Jerks (60 / 45 kg)"
+        ],
+        "desc": "Le WOD Grace est l’un des plus rapides à réaliser mais pas forcément l’un des plus simples ! C’est pourquoi pour le scaler, il est évidemment possible de réduire les charges : 35 / 25 kg en débutant et 50 / 35 kg en niveau intermédiaire.",
+        "target": [
+            "Débutant : 6/7 minutes",
+            "Intermédiaire : 4/5 minutes",
+            "Avancé : 3/4 minutes",
+            "Expert : moins de 4 minutes"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Double Grace",
+        "type": "60 réps FT :\n",
+        "exercices": [
+            "Clean & Jerk (60 / 45 kg)"
+        ],
+        "desc": "Rien de plus à ajouter, il s’agit d’une version doublée du WOD Grace… qui doit toujours s’effectuer le plus rapidement possible ! Il s’adresse donc plutôt aux crossfiteurs qui ont envie de se challenger sur les exercices d’haltérophilie !",
+        "target": ""
+    },
+    {
+        "id": 24,
+        "title": "Gwen",
+        "type": "15-12-9 réps FL :\n",
+        "exercices": [
+            "Clean & Jerks (unbroken)"
+        ],
+        "desc": "Ici pas de FT (For Time), mais du FL, c'est-à-dire For Load : le record correspond à la charge maximale soulevée, qui doit d’ailleurs être la même durant les 3 séries ! Et comme le chrono ne compte pas, il est possible de se reposer autant que nécessaire entre chaque set !",
+        "target": ""
+    },
+    {
+        "id": 25,
+        "title": "Helen",
+        "type": "3 rounds FT :",
+        "exercices": [
+            "400 m de Course",
+            "21 Kettle Bell Swings (24 / 16 kg)",
+            "12 Pull Ups"
+        ],
+        "desc": "Plutôt physique, le WOD Helen nécessite généralement de ne pas trop se dépenser sur la course pour garder de l’énergie pour les swings et les tractions. Pour les objectifs de temps, voici ce qu’il faut atteindre :",
+        "target": [
+            "Débutant : 15/17 minutes",
+            "Intermédiaire : 11/14 minutes",
+            "Avancé : 9/10 minutes",
+            "Expert : 7/8 minutes"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Double Helen",
+        "type": "3 rounds FT :\n",
+        "exercices": [
+            "800 m de course",
+            "42 Kettlebell Swings (24 / 16 kg)",
+            "24 Pull Ups"
+        ],
+        "desc": "Le nom ne pourrait pas être plus clair : on prend le WOD Helen et on double le nombre de réps à réaliser à chaque série ! Cette version devient donc nettement plus éprouvante que la version originale, et autant dire qu’il faut maitriser les tractions pour réussir à s’en sortir !",
+        "target": ""
+    },
+    {
+        "id": 27,
+        "title": "Isabel",
+        "type": "FT :\n",
+        "exercices": [
+            "30 Snatchs (60 / 45 kg)"
+        ],
+        "desc": "Le WOD Isabel ressemble au WOD Grace dans le sens où pour le scaler, il est possible de réduire les charges en fonction de son niveau : 35 / 25 kg en débutant et 50 / 35 kg en niveau intermédiaire. Le but est de réussir à tenir ces chronos :",
+        "target": [
+            "Débutant : 6/7 minutes",
+            "Intermédiaire : 4/6 minutes",
+            "Avancé : 3/4 minutes",
+            "Expert : moins de 3 minutes"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Jackie",
+        "type": "FT :\n",
+        "exercices": [
+            "1000 m en rameur",
+            "50 Thrusters (20 / 15 kg)",
+            "30 Pull Ups"
+        ],
+        "desc": "Avec ce WOD Jackie, la différence de poids recommandé pour les hommes et les femmes est assez faible et les femmes peuvent tout à fait opter pour du 20 kg si elles en sont capables ! Pour le chrono, les objectifs sont à :",
+        "target": [
+            "Débutant : 10/12 minutes",
+            "Intermédiaire : 7/9 minutes",
+            "Avancé : 6/7 minutes",
+            "Expert : moins de 6 minutes"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Running Jackie",
+        "type": "FT :\n",
+        "exercices": [
+            "800 m de course",
+            "50 Thrusters (20 / 15 kg)",
+            "30 Pull Ups"
+        ],
+        "desc": "Une variante du WOD Jackie avec de la course au lieu de rameur. Idéal quand on n’a pas possibilité de s’entrainer avec un rameur !",
+        "target": ""
+    },
+    {
+        "id": 30,
+        "title": "Karen",
+        "type": "FT :\n",
+        "exercices": [
+            "150 Wall Ball (9 / 6 kg – 2 / 1.75 m)"
+        ],
+        "desc": "Ce WOD Karen contient de nombreux mouvements comparables à ceux exécutés dans le weightlifting. Pour le scaler, il est proposé aux débutants de se contenter de 50 réps avec 4 / 3 kg, et au niveau intermédiaire, on maintient les 150 réps mais avec 6 / 4 kg !",
+        "target": [
+            "Débutant : 12/15 minutes",
+            "Intermédiaire : 8/11 minutes",
+            "Avancé : 6/7 minutes",
+            "Expert : moins de 6 minutes"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Kelly",
+        "type": "5 rounds FT :\n",
+        "exercices": [
+            "400 m de course",
+            "30 Box Jumps (60 / 50 cm)",
+            "30 Wall Ball (9 / 6 kg)"
+        ],
+        "desc": "Le WOD Kelly est un entrainement qui demande un effort physique assez intense et dans la durée ! Les débutants/intermédiaires peuvent donc tout à fait opter pour des Wall Ball plus légers (sans toucher par contre au nombre de réps).",
+        "target": [
+            "Débutant : 34/38 minutes",
+            "Intermédiaire : 25/31 minutes",
+            "Avancé : 19/22 minutes",
+            "Expert : 15/18 minutes"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Linda",
+        "type": "10-9-8…3-2-1 réps FT :\n",
+        "exercices": [
+            "Deadlift (1.5x BW)",
+            "Bench Press (BW)",
+            "Clean (3/4 BW)"
+        ],
+        "desc": "Le WOD Linda est l’un des rares à s’adapter précisément à chaque sportif puisque les exercices se font en fonction du poids du corps. Pour le scaler, il est possible de réduire le poids ou même de réduire le nombre de réps et commencer à 8 par exemple !",
+        "target": [
+            "Débutant : 28/32 minutes",
+            "Intermédiaire : 19/25 minutes",
+            "Avancé : 14/17 minutes",
+            "Expert : 11/13 minutes"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Lynne",
+        "type": "5 rounds de réps max :\n",
+        "exercices": [
+            "Bench Press (BW)",
+            "Pul Ups"
+        ],
+        "desc": "Ce WOD demande de donner tout ce qu’on a ! C’est pourquoi on peut prendre autant de repos que nécessaire entre chaque exercice et chaque round ! Mais comme il faut quand même essayer d’atteindre un objectif, voici quelques idées :",
+        "target": [
+            "Débutant : 75 réps",
+            "Intermédiaire : 125 réps",
+            "Avancé : 200 réps",
+            "Expert : 400 réps"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Maggie",
+        "type": "5 rounds FT :\n",
+        "exercices": [
+            "20 Handstand Push Ups",
+            "40 Pull Ups",
+            "60 Pistol Squats"
+        ],
+        "desc": "Le WOD Maggie est du même style que le Candy dans les exercices, et pour le scaler, on recommande la même chose : 4 séries FT de 10 Jumping Pull Ups, 20 Knee Push Ups et 30 Squats !",
+        "target": [
+            "Débutant : 53/61 minutes",
+            "Intermédiaire : 37/48 minutes",
+            "Avancé : 27/31 minutes",
+            "Expert : 19/24 minutes"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Mary",
+        "type": "AMRAP pendant 20 min :\n",
+        "exercices": [
+            "5 Handstand Push Ups",
+            "10 Pistol Squats (en alternant les jambes)",
+            "15 Pull Ups"
+        ],
+        "desc": "Tout pareil que le Maggie ! Le WOD Mary, encore plus populaire dans les WOD Benchmark, peut être scalé de la même façon que le Candy : 4 séries FT de 10 Jumping Pull Ups, 20 Knee Push Ups et 30 Squats. Sinon, en nombre de rounds, voilà les objectifs à atteindre pour chaque niveau :",
+        "target": [
+            "Débutant : 7/8 rounds",
+            "Intermédiaire : 9/12 rounds",
+            "Avancé : 14/16 rounds",
+            "Expert : 17/21 rounds"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Mary XXX",
+        "type": "AMRAP pendant 20 minutes :\n",
+        "exercices": [
+            "10 Handstand Push Ups",
+            "20 Pistol Squats (en alternant les jambes)",
+            "30 Pull Ups",
+            "15 Handstand Push Ups",
+            "30 Pistol Squats (en alternant les jambes)",
+            "45 Pull Ups",
+            "20 Handstand Push Ups",
+            "40 Pistol Squats (en alternant les jambes)",
+            "60 Pull Ups",
+            "25 Handstand Push Ups",
+            "50 Pistol Squats (en alternant les jambes)",
+            "75 Pull Ups",
+            "60 Handstand Push Ups",
+            "60 Pistol Squats (en alternant les jambes)",
+            "90 Pull Ups"
+        ],
+        "desc": "Tout comme le Cindy XXX, le but de ce WOD est d’aller le plus loin possible en respectant le chrono de 20 minutes ! Et la fois d’après, on va encore plus loin !",
+        "target": ""
+    },
+    {
+        "id": 37,
+        "title": "Special Mary",
+        "type": "FT :\n",
+        "exercices": [
+            "5 Strict Handstand Push Ups",
+            "10 Pistol Squats (en alternant les jambes)",
+            "15 Strict Pull Ups",
+            "10 Strict Handstand Push Ups",
+            "20 Pistol Squats (en alternant les jambes)",
+            "30 Strict Pull Ups",
+            "15 Strict Handstand Push Ups",
+            "30 Pistol Squats (en alternant les jambes)",
+            "45 Strict Pull Ups",
+            "10 Strict Handstand Push Ups",
+            "20 Pistol Squats (en alternant les jambes)",
+            "30 Strict Pull Ups",
+            "5 Strict Handstand Push Ups",
+            "10 Pistol Squats (en alternant les jambes)",
+            "15 Strict Pull Ups"
+        ],
+        "desc": "Cette variante du WOD Mary possède un détail qui ne doit pas passer inaperçu : tous les exercices sont en strict, c'est-à-dire sans kipping ! Interdit de s’aider des hanches et de se balancer pour y arriver plus facilement !",
+        "target": ""
+    },
+    {
+        "id": 38,
+        "title": "Easy Mary",
+        "type": "AMRAP pendant 20 minutes :\n",
+        "exercices": [
+            "5 Handstand Push Ups",
+            "10 Pull Ups",
+            "25 Squats"
+        ],
+        "desc": "Tout est dans le nom : ce WOD Easy Mary est une variante un peu plus accessible ! Les tractions sont moins nombreuses, et surtout, les squats demandés sont classiques et plus sur une jambe !",
+        "target": ""
+    },
+    {
+        "id": 39,
+        "title": "Nancy",
+        "type": "5 rounds FT :\n",
+        "exercices": [
+            "400 m de Course",
+            "15 Overhead Squat (45 / 30 kg)"
+        ],
+        "desc": "Le WOD Nancy a été conçu pour être léger et rapide, et selon le niveau, il doit être réalisé en moins de 20 minutes max ! Pour les débutants, opter pour des Overhead Squat moins lourds est l’option la plus conseillée (20 / 15 kg) tout en baissant à 10 réps !",
+        "target": [
+            "Débutant : 17/19 minutes",
+            "Intermédiaire : 13/16 minutes",
+            "Avancé : 11/12 minutes",
+            "Expert : 8/10 minutes"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Nasty Girls",
+        "type": "3 rounds FT :\n",
+        "exercices": [
+            "50 Squats",
+            "7 Muscle Ups",
+            "10 Hang Power Cleans (60 / 45 kg)"
+        ],
+        "desc": "Un grand classique dans le Crossfit, le WOD Nasty Girls permet de repousser ses limites et son endurance ! Les mouvements sont variés, et avec 3 rounds, tous les muscles sont mis à contribution !",
+        "target": ""
+    },
+    {
+        "id": 41,
+        "title": "Nasty Girls V2",
+        "type": "3 rounds FT :\n",
+        "exercices": [
+            "50 Pistol Squats (en alternant les jambes)",
+            "7 Muscle Ups",
+            "10 Hang Power Cleans (80 / 55 kg)"
+        ],
+        "desc": "Une variante un peu plus corsée du WOD Nasty Girls ! Les squats classiques, trop faciles, sont remplacés par des Pistols, et on augmente la charge pour souffrir un peu plus et continuer à progresser !",
+        "target": ""
+    },
+    {
+        "id": 42,
+        "title": "Nicole",
+        "type": "AMRAP pendant 20 minutes :\n",
+        "exercices": [
+            "400 m de course",
+            "Pull Ups (unbroken max)"
+        ],
+        "desc": "La petite touche d’originalité de ce WOD Nicole, c’est qu’il n’impose pas un nombre fixe de tractions à faire ! C’est en fonction du niveau de chacun, mais les séries doivent tout de même être unbroken et les plus longues possibles !",
+        "target": ""
+    }
+]
